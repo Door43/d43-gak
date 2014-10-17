@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gak:home|Door43 (gak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gak|d43-gak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gak/archive/master.zip|d43-gak.zip]]
+
+**Recent Changes**
+{{changes>ns = gak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gak|Ethnologue data]]
+
